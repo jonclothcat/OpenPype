@@ -61,9 +61,9 @@ const collab = [
     image: '/img/moonshine_logotype.png',
     infoLink: 'https://www.moonshine.tw/'
   }, {
-    title: 'Clothcat Animation',
+    title: 'Cloth Cat',
     image: '/img/clothcat.png',
-    infoLink: 'https://www.clothcatanimation.com/'
+    infoLink: 'https://www.clothcat.com/'
   }, {
     title: 'Ellipse Studio',
     image: '/img/ellipse-studio.png',
